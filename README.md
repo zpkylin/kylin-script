@@ -1,2 +1,2 @@
-# kylin-common
-麒麟通用的工具类库
+# kylin-script
+麒麟常用脚本
